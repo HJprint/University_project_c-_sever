@@ -1,0 +1,7 @@
+C:\Users\黄杰\Desktop\recver2\recver2\bin\Debug\recver2.exe.config
+C:\Users\黄杰\Desktop\recver2\recver2\bin\Debug\recver2.exe
+C:\Users\黄杰\Desktop\recver2\recver2\bin\Debug\recver2.pdb
+C:\Users\黄杰\Desktop\recver2\recver2\obj\Debug\recver2.csprojAssemblyReference.cache
+C:\Users\黄杰\Desktop\recver2\recver2\obj\Debug\recver2.csproj.CoreCompileInputs.cache
+C:\Users\黄杰\Desktop\recver2\recver2\obj\Debug\recver2.exe
+C:\Users\黄杰\Desktop\recver2\recver2\obj\Debug\recver2.pdb

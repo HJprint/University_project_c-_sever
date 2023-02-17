@@ -1,0 +1,7 @@
+C:\Users\黄杰\Desktop\text\text\bin\Debug\text.exe.config
+C:\Users\黄杰\Desktop\text\text\bin\Debug\text.exe
+C:\Users\黄杰\Desktop\text\text\bin\Debug\text.pdb
+C:\Users\黄杰\Desktop\text\text\obj\Debug\text.csprojAssemblyReference.cache
+C:\Users\黄杰\Desktop\text\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\黄杰\Desktop\text\text\obj\Debug\text.exe
+C:\Users\黄杰\Desktop\text\text\obj\Debug\text.pdb
