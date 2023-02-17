@@ -1,0 +1,28 @@
+C:\Users\黄杰\Desktop\text3\text3\bin\Debug\text3.exe.config
+C:\Users\黄杰\Desktop\text3\text3\bin\Debug\text3.exe
+C:\Users\黄杰\Desktop\text3\text3\bin\Debug\text3.pdb
+C:\Users\黄杰\Desktop\text3\text3\obj\Debug\text3.csprojAssemblyReference.cache
+C:\Users\黄杰\Desktop\text3\text3\obj\Debug\text3.csproj.CoreCompileInputs.cache
+C:\Users\黄杰\Desktop\text3\text3\obj\Debug\text3.exe
+C:\Users\黄杰\Desktop\text3\text3\obj\Debug\text3.pdb
+C:\Users\黄杰\Desktop\text3 (1)\text3\bin\Debug\text3.exe.config
+C:\Users\黄杰\Desktop\text3 (1)\text3\bin\Debug\text3.exe
+C:\Users\黄杰\Desktop\text3 (1)\text3\bin\Debug\text3.pdb
+C:\Users\黄杰\Desktop\text3 (1)\text3\obj\Debug\text3.csprojAssemblyReference.cache
+C:\Users\黄杰\Desktop\text3 (1)\text3\obj\Debug\text3.csproj.CoreCompileInputs.cache
+C:\Users\黄杰\Desktop\text3 (1)\text3\obj\Debug\text3.exe
+C:\Users\黄杰\Desktop\text3 (1)\text3\obj\Debug\text3.pdb
+C:\Users\黄杰\Desktop\后台\ok\text3 (1)\text3\bin\Debug\text3.exe.config
+C:\Users\黄杰\Desktop\后台\ok\text3 (1)\text3\bin\Debug\text3.exe
+C:\Users\黄杰\Desktop\后台\ok\text3 (1)\text3\bin\Debug\text3.pdb
+C:\Users\黄杰\Desktop\后台\ok\text3 (1)\text3\obj\Debug\text3.csprojAssemblyReference.cache
+C:\Users\黄杰\Desktop\后台\ok\text3 (1)\text3\obj\Debug\text3.csproj.CoreCompileInputs.cache
+C:\Users\黄杰\Desktop\后台\ok\text3 (1)\text3\obj\Debug\text3.exe
+C:\Users\黄杰\Desktop\后台\ok\text3 (1)\text3\obj\Debug\text3.pdb
+C:\Users\黄杰\Desktop\物联网\后台\ok\text3 (1)\text3\bin\Debug\text3.exe.config
+C:\Users\黄杰\Desktop\物联网\后台\ok\text3 (1)\text3\bin\Debug\text3.exe
+C:\Users\黄杰\Desktop\物联网\后台\ok\text3 (1)\text3\bin\Debug\text3.pdb
+C:\Users\黄杰\Desktop\物联网\后台\ok\text3 (1)\text3\obj\Debug\text3.csprojAssemblyReference.cache
+C:\Users\黄杰\Desktop\物联网\后台\ok\text3 (1)\text3\obj\Debug\text3.csproj.CoreCompileInputs.cache
+C:\Users\黄杰\Desktop\物联网\后台\ok\text3 (1)\text3\obj\Debug\text3.exe
+C:\Users\黄杰\Desktop\物联网\后台\ok\text3 (1)\text3\obj\Debug\text3.pdb

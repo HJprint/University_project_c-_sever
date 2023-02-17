@@ -1,0 +1,14 @@
+C:\Users\黄杰\Desktop\text1\text1\bin\Debug\text1.exe.config
+C:\Users\黄杰\Desktop\text1\text1\bin\Debug\text1.exe
+C:\Users\黄杰\Desktop\text1\text1\bin\Debug\text1.pdb
+C:\Users\黄杰\Desktop\text1\text1\obj\Debug\text1.csprojAssemblyReference.cache
+C:\Users\黄杰\Desktop\text1\text1\obj\Debug\text1.csproj.CoreCompileInputs.cache
+C:\Users\黄杰\Desktop\text1\text1\obj\Debug\text1.exe
+C:\Users\黄杰\Desktop\text1\text1\obj\Debug\text1.pdb
+C:\Users\黄杰\Desktop\text1 (1)\text1\bin\Debug\text1.exe.config
+C:\Users\黄杰\Desktop\text1 (1)\text1\bin\Debug\text1.exe
+C:\Users\黄杰\Desktop\text1 (1)\text1\bin\Debug\text1.pdb
+C:\Users\黄杰\Desktop\text1 (1)\text1\obj\Debug\text1.csprojAssemblyReference.cache
+C:\Users\黄杰\Desktop\text1 (1)\text1\obj\Debug\text1.csproj.CoreCompileInputs.cache
+C:\Users\黄杰\Desktop\text1 (1)\text1\obj\Debug\text1.exe
+C:\Users\黄杰\Desktop\text1 (1)\text1\obj\Debug\text1.pdb

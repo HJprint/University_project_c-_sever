@@ -1,0 +1,21 @@
+C:\Users\黄杰\Desktop\text2\text2\bin\Debug\text2.exe.config
+C:\Users\黄杰\Desktop\text2\text2\bin\Debug\text2.exe
+C:\Users\黄杰\Desktop\text2\text2\bin\Debug\text2.pdb
+C:\Users\黄杰\Desktop\text2\text2\obj\Debug\text2.csprojAssemblyReference.cache
+C:\Users\黄杰\Desktop\text2\text2\obj\Debug\text2.csproj.CoreCompileInputs.cache
+C:\Users\黄杰\Desktop\text2\text2\obj\Debug\text2.exe
+C:\Users\黄杰\Desktop\text2\text2\obj\Debug\text2.pdb
+C:\Users\黄杰\Desktop\后台\ok\text2 (1)\text2\bin\Debug\text2.exe.config
+C:\Users\黄杰\Desktop\后台\ok\text2 (1)\text2\bin\Debug\text2.exe
+C:\Users\黄杰\Desktop\后台\ok\text2 (1)\text2\bin\Debug\text2.pdb
+C:\Users\黄杰\Desktop\后台\ok\text2 (1)\text2\obj\Debug\text2.csprojAssemblyReference.cache
+C:\Users\黄杰\Desktop\后台\ok\text2 (1)\text2\obj\Debug\text2.csproj.CoreCompileInputs.cache
+C:\Users\黄杰\Desktop\后台\ok\text2 (1)\text2\obj\Debug\text2.exe
+C:\Users\黄杰\Desktop\后台\ok\text2 (1)\text2\obj\Debug\text2.pdb
+C:\Users\黄杰\Desktop\物联网\后台\ok\text2 (1)\text2\bin\Debug\text2.exe.config
+C:\Users\黄杰\Desktop\物联网\后台\ok\text2 (1)\text2\bin\Debug\text2.exe
+C:\Users\黄杰\Desktop\物联网\后台\ok\text2 (1)\text2\bin\Debug\text2.pdb
+C:\Users\黄杰\Desktop\物联网\后台\ok\text2 (1)\text2\obj\Debug\text2.csprojAssemblyReference.cache
+C:\Users\黄杰\Desktop\物联网\后台\ok\text2 (1)\text2\obj\Debug\text2.csproj.CoreCompileInputs.cache
+C:\Users\黄杰\Desktop\物联网\后台\ok\text2 (1)\text2\obj\Debug\text2.exe
+C:\Users\黄杰\Desktop\物联网\后台\ok\text2 (1)\text2\obj\Debug\text2.pdb
